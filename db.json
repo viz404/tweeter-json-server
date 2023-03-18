@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "url": "https://media4.giphy.com/media/xTiN0CNHgoRf1Ha7CM/giphy-downsized.gif?cid=cda4435389y3ioll17uyasiuv6hgwduf7h18fusli4egaolu&rid=giphy-downsized.gif&ct=g",
+      "content": "First post",
+      "userId": 3,
+      "author": "jon123",
+      "author_avatar": "https://i.pravatar.cc/300",
+      "id": 1
+    },
+    {
+      "url": "https://media0.giphy.com/media/7WvAUvZZTRpSuudobh/giphy.gif?cid=cda44353ceqgmtg9mgywx6sh4hje4quumvwdkd2fup2vjhka&rid=giphy.gif&ct=g",
+      "content": "Second Post",
+      "userId": 3,
+      "author": "jon123",
+      "author_avatar": "https://i.pravatar.cc/300",
+      "id": 2
+    },
+    {
+      "url": "https://media0.giphy.com/media/R2OQWuz5Hk6dy9OAxw/giphy-downsized.gif?cid=cda44353w6ajvupeq9wqzk250gmvp1ef153496u4xnv2xfzm&rid=giphy-downsized.gif&ct=g",
+      "content": "Sunday afternoon",
+      "userId": 2,
+      "author": "vishal",
+      "author_avatar": "https://i.pravatar.cc/300",
+      "id": 4
+    },
+    {
+      "url": "https://media2.giphy.com/media/W3a0zO282fuBpsqqyD/giphy.gif?cid=cda4435386nptybwwgekzc3bcutqnk0exjs9va9odft6he6i&rid=giphy.gif&ct=g",
+      "content": "Joey",
+      "userId": 3,
+      "author": "jon123",
+      "author_avatar": "https://i.pravatar.cc/300",
+      "id": 6
+    },
+    {
+      "url": "https://media3.giphy.com/media/LROZEFbzxJN218rrLd/giphy-downsized.gif?cid=cda4435345p501x4ajkesdxjo6bkdvmgikkf81zifm4d4hwv&rid=giphy-downsized.gif&ct=g",
+      "content": "No sleep",
+      "userId": 2,
+      "author": "vishal",
+      "author_avatar": "https://i.pravatar.cc/300",
+      "id": 7
+    }
+  ],
+  "user": [
+    {
+      "username": "vishal",
+      "avatar_url": "https://i.pravatar.cc/300",
+      "full_name": "Vishal Dinesh",
+      "email": "vishal@email.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "username": "jon123",
+      "avatar_url": "https://i.pravatar.cc/300",
+      "full_name": "Jon Doe",
+      "email": "jon@email.com",
+      "password": "1234",
+      "id": 3
+    }
+  ]
+}
